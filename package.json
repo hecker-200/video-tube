@@ -1,0 +1,17 @@
+{
+  "name": "video-tube",
+  "version": "1.0.0",
+  "description": "a complete video streaming website",
+  "keywords": [
+    "javascript",
+    "backend",
+    "hecker"
+  ],
+  "license": "ISC",
+  "author": "hecker",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
